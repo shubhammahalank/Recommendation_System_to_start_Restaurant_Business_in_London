@@ -1,7 +1,7 @@
 # IBM-Data-Science-Capstone-Project
 RECOMMENDATION SYSTEM TO START A RESTAURANT BUSINESS IN LONDON
 
-Article link: https://www.linkedin.com/pulse/recommendation-system-start-restaurant-business-london-mahalank
+Article link: https://medium.com/@shubhammahalank/recommendation-system-to-start-a-restaurant-business-in-london-b1c3f18a47b8
 
 London is a megacity, the capital of the United Kingdom and one of the oldest of the world’s great cities, with its history spanning nearly two millennia. By far Britain's largest metropolis, it is also the country’s economic, transportation, and cultural center. The population of London had already exceeded one million by 1800 and it reached 9 million in 2018. London and the UK's population has one of the most diverse groups of origin countries in the world. Also, London is one of the world's leading tourism destinations with 21 million international visitors in 2018.
 
